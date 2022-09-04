@@ -9,7 +9,9 @@ https://www.youtube.com/watch?v=WOZ4wDt-iYA
 
 Una vez comprendido y analizado el problema generé una solución automatizada en excel para ir navegando entre todas las opciones posibles. Se inxluyen las 92 soluciones posibles.
 
-En el excel hay tres archivos
+En el archivo js hayun algoritmo que va probando y dando distintas soluciones al problema planteado. Sin embargo al poco andar me di cuenta que en excel pude hacer un algoritmo mucho más eficiente. Igualmente al ejecutar el archivo js mostrará por consola cada resultado que vaya encontrando.
+
+En el excel hay tres hojas
 Hoja1:  Visualizar propuesta. En ella se puede analizar de manera gráfica los distintos resultados (desde el 1 al 40320) Al cambiar el número en la celda I1 cambiará el resultado de las celdas
 
 Hoja2: Lista de respuestas correctas: En ella aparecen las respuestas correctas listadas en una tabla dinámica que ocupa como origen la hoja orden. En ella aparece el correlativo que muestra la solución al problema. Para poder visualizar podemos seleccionar la celda y presionar ctrl+q (una macro que copia el contenido y lo pega en la celda I1 de la hoja Visualizar propuesta
